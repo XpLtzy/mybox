@@ -1,0 +1,42 @@
+[Adblock Plus 2.0]
+! Title: 起点中文网手机web规则
+! Version: 2026-07-06
+
+m.qidian.com##._searchPopular_r69w2_547
+m.qidian.com##._normalDownload_1hi3e_193.auto-tr
+m.qidian.com##._homeContentWrap_oh53r_204 > .auto-tr
+m.qidian.com##._floatDownload_oh53r_2091.auto-tr
+m.qidian.com##._openApp_j0l2g_491.auto-tr
+m.qidian.com##.auto-once._downloadContent_1fkwm_425
+m.qidian.com##._container_1fkwm_271 > .auto-tr
+m.qidian.com##._openApp_17ayl_193.auto-tr
+m.qidian.com###footerApp
+m.qidian.com##footer
+m.qidian.com##._openApp_oh53r_1988.auto-tr
+m.qidian.com##._adSwipe_oh53r_304.y-swipe
+m.qidian.com##.auto-click-tr._searchModule_oh53r_216 > span
+m.qidian.com##.buttonList
+m.qidian.com##._openApp_a6c3f_193.auto-tr
+m.qidian.com##.inline-flex.w-200px.auto-tr
+m.qidian.com##.flex-shrink-0.ml-4px.auto-tr
+m.qidian.com##._dllNavWrap_147sf_774.auto-tr
+m.qidian.com##.pt-12px.p-16px.flex
+m.qidian.com##._catalogBottomDDL_147sf_591.auto-tr
+m.qidian.com##.shadow-sd8.absolute.bottom-12px.right-16px.left-16px.primary.semicircle.large.justify-center.items-center.flex.flex-shrink-0.font-medium
+m.qidian.com##button.text-s-gray-900.active-a60.text-24px.h-64px.w-90px.justify-center.items-center.flex-col.flex:nth-of-type(4)
+||imgservices-1252317822.image.myqcloud.com/coco/s09192022/8b1fdbb9.i5ho2p.jpg$image
+m.qidian.com##._openApp_skthz_688.auto-tr
+m.qidian.com##._bookTag_skthz_444
+m.qidian.com##.tags-wrapper
+m.qidian.com##div.auto-click-tr.auto-tr:nth-of-type(5)
+m.qidian.com##._bookshelfBtn_17916_479
+m.qidian.com##a._navItem_1xq7k_236:nth-of-type(6)
+m.qidian.com##._openApp_ov8n4_319.auto-tr
+m.qidian.com##._firstHeader_ov8n4_418
+m.qidian.com##._userAccount_oh53r_1838
+m.qidian.com##._loginWrapper_1qiz2_252
+m.qidian.com##._bookDetailTabs_1rj30_193
+m.qidian.com##._bdReadApp_1rj30_899.auto-tr
+m.qidian.com##.\!p-0.flex-1.secondary-g.round.large.justify-center.items-center.flex.flex-shrink-0.font-medium
+m.qidian.com##.text-center.w-36px.auto-tr
+m.qidian.com##button.mr-24px.item.w-\[14\.44vw\].p-0.items-center.flex-col.inline-flex > .h-\[14\.44vw\].w-full.text-24px.justify-center.items-center.flex.text-s-gray-700.rounded-8px.bg-s-bw-white
