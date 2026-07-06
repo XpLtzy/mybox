@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Title: 起点中文网手机web规则
+! Title: 我的规则手机版
 ! Version: 2026-07-06
 
+! 起点中文网web手机
 m.qidian.com##._searchPopular_r69w2_547
 m.qidian.com##._normalDownload_1hi3e_193.auto-tr
 m.qidian.com##._homeContentWrap_oh53r_204 > .auto-tr
