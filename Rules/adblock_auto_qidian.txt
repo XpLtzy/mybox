@@ -37,6 +37,7 @@ m.qidian.com##._userAccount_oh53r_1838
 m.qidian.com##._loginWrapper_1qiz2_252
 m.qidian.com##._bookDetailTabs_1rj30_193
 m.qidian.com##._bdReadApp_1rj30_899.auto-tr
-m.qidian.com##.!p-0.flex-1.secondary-g.round.large.justify-center.items-center.flex.flex-shrink-0.font-medium
 m.qidian.com##.text-center.w-36px.auto-tr
 m.qidian.com##button.mr-24px.item.w-.p-0.items-center.flex-col.inline-flex > .h-.w-full.text-24px.justify-center.items-center.flex.text-s-gray-700.rounded-8px.bg-s-bw-white
+m.qidian.com##a._navItem_oh53r_602.auto-tr.auto-click-tr:nth-of-type(3)
+m.qidian.com##a._navItem_oh53r_602.auto-tr.auto-click-tr:nth-of-type(4)
